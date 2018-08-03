@@ -1,0 +1,42 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MArkB.SMARTonFhir.Client", "MArkB.SMARTonFhir.Client\MArkB.SMARTonFhir.Client.csproj", "{A690C19A-99B5-4F93-86BC-0D9B864F426B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MArkB.SMARTonFhir.Tests", "MArkB.SMARTonFhir.Tests\MArkB.SMARTonFhir.Tests.csproj", "{B6D7F50B-436C-475E-9ECB-1884197D120D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MArkB.SMARTOnFhir.Cerner", "..\..\MArkB.SMARTOnFhir.01\MArkB.SMARTOnFhir.Cerner\MArkB.SMARTOnFhir.Cerner.csproj", "{351E83F3-63E3-4AD0-907C-5E2F36470B7F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OAuthHelper", "OAuthHelper\OAuthHelper.csproj", "{48BEA39E-6288-40FA-AFFB-6812205172F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A690C19A-99B5-4F93-86BC-0D9B864F426B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A690C19A-99B5-4F93-86BC-0D9B864F426B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A690C19A-99B5-4F93-86BC-0D9B864F426B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A690C19A-99B5-4F93-86BC-0D9B864F426B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6D7F50B-436C-475E-9ECB-1884197D120D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D7F50B-436C-475E-9ECB-1884197D120D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D7F50B-436C-475E-9ECB-1884197D120D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D7F50B-436C-475E-9ECB-1884197D120D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{351E83F3-63E3-4AD0-907C-5E2F36470B7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{351E83F3-63E3-4AD0-907C-5E2F36470B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{351E83F3-63E3-4AD0-907C-5E2F36470B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{351E83F3-63E3-4AD0-907C-5E2F36470B7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48BEA39E-6288-40FA-AFFB-6812205172F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48BEA39E-6288-40FA-AFFB-6812205172F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48BEA39E-6288-40FA-AFFB-6812205172F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48BEA39E-6288-40FA-AFFB-6812205172F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {274F0B76-A51F-4B2A-9CBC-3474B60FC3DB}
+	EndGlobalSection
+EndGlobal
