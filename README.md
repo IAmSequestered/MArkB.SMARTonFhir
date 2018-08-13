@@ -1,6 +1,6 @@
 # MArkB.SMARTonFhir
 
-This project is targeted at a .NET implimentation of SMART on FHIR. I've attempted to recreate the Cerner JavaScript smart-on-fhir-tutorial in C# with a few additions. For accessing the FHIR server I'm utilizing the open source fhir-net-api library developed by Ewout Kramer. It's on get here: https://github.com/ewoutkramer/fhir-net-api
+This project is targeted at a .NET implementation of SMART on FHIR. I've attempted to recreate the Cerner JavaScript smart-on-fhir-tutorial in C# with a few additions. For accessing the FHIR server I'm utilizing the open source fhir-net-api library developed by Ewout Kramer. It's on get here: https://github.com/ewoutkramer/fhir-net-api
 
 I'd like this to be the go-to solution for .Net developers getting started with SMART on FHIR. Please let me know if you have any issues or questions. Report bugs using the Issues tab above and add or request additional documentation as you see fit.
 
